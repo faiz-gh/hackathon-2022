@@ -1,2 +1,2 @@
-# Cue Social
-Cue Social is a Social Media Website
+# Hackathon Project
+This is an online Birth and Death Registration Website
