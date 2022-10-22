@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: db:3306
--- Generation Time: Oct 21, 2022 at 02:10 PM
+-- Generation Time: Oct 22, 2022 at 06:42 PM
 -- Server version: 8.0.31
 -- PHP Version: 8.0.19
 
@@ -111,6 +111,8 @@ CREATE TABLE `deathform` (
 
 CREATE TABLE `userlogin` (
   `userID` int NOT NULL,
+  `firstName` varchar(255) COLLATE utf8mb4_general_ci DEFAULT NULL,
+  `lastName` varchar(255) COLLATE utf8mb4_general_ci DEFAULT NULL,
   `email` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
   `password` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
   `date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
