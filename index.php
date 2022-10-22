@@ -34,7 +34,7 @@
                                                 <label class="form-check-label" for="inputRememberPassword">Remember Password</label>
                                             </div>
                                             <div class="d-flex align-items-center justify-content-center mt-4 mb-0">
-                                                <a class="btn btn-primary w-50" href="index.html">Login</a>
+                                                <a class="btn btn-primary w-50" type="submit">Login</a>
                                             </div>
                                         </form>
                                     </div>
