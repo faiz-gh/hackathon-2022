@@ -10,6 +10,7 @@
     <title>Login Page</title>
 </head>
 
+<!-- Body -->
 <body class="bg-dark">
     <div id="layoutAuthentication">
         <div id="layoutAuthentication_content">
