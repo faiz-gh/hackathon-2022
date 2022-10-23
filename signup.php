@@ -5,7 +5,6 @@
 <?php include "includes/dbconnection.php" ?>
 
 <!-- Header -->
-
 <head>
     <?php include "includes/header.php" ?>
     <title>Login Page</title>
@@ -73,6 +72,8 @@
             </main>
         </div>
         <div id="layoutAuthentication_footer">
+
+            <!-- Footer -->
             <footer class="py-4 bg-light mt-auto bg-boback">
                 <?php include "includes/footer.php" ?>
             </footer>
