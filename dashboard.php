@@ -7,7 +7,7 @@
     <!-- Header -->
     <head>
         <?php include "includes/header.php" ?>
-        <title>Birth Certificate Application</title>
+        <title>Site Dashboard</title>
     </head>
 
     <body class="sb-nav-fixed bg-boback">
