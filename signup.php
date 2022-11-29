@@ -7,7 +7,7 @@
 <!-- Header -->
 <head>
     <?php include "includes/header.php" ?>
-    <title>Login Page</title>
+    <title>SignUp Page</title>
 </head>
 
 <!-- Body -->
